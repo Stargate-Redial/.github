@@ -2,6 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/Stargate-Redial/.github/main/profile/images/flag-gb.svg" height="14" alt="EN"> **[English](#english)** &nbsp;·&nbsp; <img src="https://raw.githubusercontent.com/Stargate-Redial/.github/main/profile/images/flag-fr.svg" height="14" alt="FR"> **[Français](#francais)**
 
+<p align="center"><a href="https://github.com/Stargate-Redial/alliance-redial"><img src="https://raw.githubusercontent.com/Stargate-Redial/.github/main/profile/images/alliance.jpg" width="640" alt="Stargate SG-1: The Alliance"></a></p>
+
+<p align="center"><b>🆕 <a href="https://github.com/Stargate-Redial/alliance-redial">Stargate SG-1: The Alliance: Redial</a></b><br>The unreleased 2005 SG-1 game, playable on PC · <a href="https://stargatedatabase.link/en/games/alliance/">Download &amp; guide</a> · <a href="https://stargatedatabase.link/fr/jeux/alliance/">Page en français</a></p>
+
 | [<img src="https://raw.githubusercontent.com/Stargate-Redial/.github/main/profile/images/stargatetc.jpg" width="300" alt="StargateTC 2.0">](https://github.com/Stargate-Redial/stargatetc-redial) | [<img src="https://raw.githubusercontent.com/Stargate-Redial/.github/main/profile/images/stargatetc2.jpg" width="300" alt="StargateTC 2">](https://github.com/Stargate-Redial/stargatetc2-redial) | [<img src="https://raw.githubusercontent.com/Stargate-Redial/.github/main/profile/images/stargatetls.jpg" width="300" alt="Stargate: The Last Stand">](https://github.com/Stargate-Redial/stargatetls-redial) | [<img src="https://raw.githubusercontent.com/Stargate-Redial/.github/main/profile/images/specialunit.jpg" width="300" alt="Special Unit">](https://github.com/Stargate-Redial/specialunit-redial) |
 |:---:|:---:|:---:|:---:|
 | **[StargateTC: Redial](https://github.com/Stargate-Redial/stargatetc-redial)** | **[StargateTC 2: Redial](https://github.com/Stargate-Redial/stargatetc2-redial)** | **[Stargate TLS: Redial](https://github.com/Stargate-Redial/stargatetls-redial)** | **[Special Unit: Redial](https://github.com/Stargate-Redial/specialunit-redial)** |
@@ -15,8 +19,9 @@
 <a id="english"></a>
 ## <img src="https://raw.githubusercontent.com/Stargate-Redial/.github/main/profile/images/flag-gb.svg" height="20" alt=""> English
 
-Stargate mods brought back to life on today's Steam, with bots that play the objectives and servers running 24/7.
+Stargate games and mods brought back to life on today's PCs, with bots that play the objectives and servers running 24/7.
 
+- **[Stargate SG-1: The Alliance: Redial](https://github.com/Stargate-Redial/alliance-redial) (new):** the official SG-1 game cancelled in 2005, now playable on PC as a native port on the Unreal Tournament 2004 engine: the whole campaign voiced by the show's cast, multiplayer with bots and 24/7 servers (*Multi-Player → Internet → Find Match*), automatic updates. [Download and install guide](https://stargatedatabase.link/en/games/alliance/).
 - **[StargateTC: Redial](https://github.com/Stargate-Redial/stargatetc-redial):** StargateTC 2.0, the Half-Life mod, runs again on today's Half-Life. Its bots dial the gates, ride the rings, carry the key to the bomb and plant C4.
 - **[StargateTC 2: Redial](https://github.com/Stargate-Redial/stargatetc2-redial):** bots for StargateTC 2, and an in-game server browser that lists servers again.
 - **[Stargate TLS: Redial](https://github.com/Stargate-Redial/stargatetls-redial):** bots for Stargate: The Last Stand, which attack and defend the objectives.
@@ -29,8 +34,9 @@ Each project has a one-click Windows installer in its Releases. Bots fill your o
 <a id="francais"></a>
 ## <img src="https://raw.githubusercontent.com/Stargate-Redial/.github/main/profile/images/flag-fr.svg" height="20" alt=""> Français
 
-Les mods Stargate qui reprennent vie sur le Steam d'aujourd'hui, avec des bots qui jouent les objectifs et des serveurs ouverts 24h/24.
+Les jeux et mods Stargate qui reprennent vie sur les PC d'aujourd'hui, avec des bots qui jouent les objectifs et des serveurs ouverts 24h/24.
 
+- **[Stargate SG-1: The Alliance: Redial](https://github.com/Stargate-Redial/alliance-redial) (nouveau) :** le jeu SG-1 officiel annulé en 2005, désormais jouable sur PC en portage natif sur le moteur d'Unreal Tournament 2004 : toute la campagne avec les voix de la série, le multijoueur avec des bots et des serveurs 24h/24 (*Multi-Player → Internet → Find Match*), des mises à jour automatiques. [Téléchargement et guide d'installation](https://stargatedatabase.link/fr/jeux/alliance/).
 - **[StargateTC: Redial](https://github.com/Stargate-Redial/stargatetc-redial) :** StargateTC 2.0, le mod de Half-Life, retourne sur le Half-Life d'aujourd'hui. Ses bots composent les portes, prennent les anneaux, portent la clé jusqu'à la bombe et posent du C4.
 - **[StargateTC 2: Redial](https://github.com/Stargate-Redial/stargatetc2-redial) :** des bots pour StargateTC 2, et un navigateur de serveurs du jeu qui affiche de nouveau les serveurs.
 - **[Stargate TLS: Redial](https://github.com/Stargate-Redial/stargatetls-redial) :** des bots pour Stargate: The Last Stand, qui attaquent et défendent les objectifs.
@@ -40,4 +46,4 @@ Chaque projet a un installeur Windows en un clic dans ses Releases. Les bots rem
 
 ---
 
-*Made with love by [@CreepyInpu](https://x.com/CreepyInpu). A fan project, not affiliated with the mods' teams, Valve, Epic Games or MGM. Screenshots: StargateTC by CreepyInpu; StargateTC 2, The Last Stand and Special Unit from the mods' ModDB pages.*
+*Made with love by [@CreepyInpu](https://x.com/CreepyInpu). A fan project, not affiliated with the games' and mods' teams, Valve, Epic Games or MGM. Screenshots: StargateTC and Stargate SG-1: The Alliance by CreepyInpu; StargateTC 2, The Last Stand and Special Unit from the mods' ModDB pages.*
